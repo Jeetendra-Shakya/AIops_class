@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for dvc ml pipeline demo
+Home-page: https://github.com/Jeetendra-Shakya/AIops_class
+Author: jeetendra-shakya
+Author-email: jitendra_shakya@hotmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# AIops_class
+
+
